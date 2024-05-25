@@ -119,6 +119,7 @@
 - [Luciano Mammino](https://loige.co/)
 - [Lucy Bain](https://lucybain.com/blog/)
 - [Maddy Miller](https://madelinemiller.dev/blog/)
+- [Manuel Kießling](https://manuel.kiessling.net/)
 - [Marcy Sutton](https://marcysutton.com/)
 - [Marius Schulz](https://mariusschulz.com)
 - [Mark Erikson](https://blog.isquaredsoftware.com/)
